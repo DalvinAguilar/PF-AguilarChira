@@ -1,4 +1,4 @@
-# Pre Entrega 1 Curso Bacncked CoderHouse - Proyecto de Gestión de Productos y Carritos
+# Pre Entrega 1 Curso Backend CoderHouse - Proyecto de Gestión de Productos y Carritos
 
 Este proyecto es una aplicación web desarrollada en Node.js con Express, que permite gestionar productos y carritos de compras. Incluye funcionalidades para agregar, actualizar y eliminar productos, así como para crear y manejar carritos de compras.
 

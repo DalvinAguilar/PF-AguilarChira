@@ -1,0 +1,21 @@
+{
+	"name": "preentrega1aguilarchira",
+	"version": "1.0.0",
+	"main": "app.js",
+	"type": "module",
+	"scripts": {
+		"test": "echo \"Error: no test specified\" && exit 1",
+		"dev": "nodemon app.js"
+	},
+	"keywords": [
+		"Express",
+		"NodeJS"
+	],
+	"author": "Dalvin Vicente Aguilar Chira",
+	"license": "ISC",
+	"description": "",
+	"dependencies": {
+		"express": "^4.21.0",
+		"nodemon": "^3.1.7"
+	}
+}

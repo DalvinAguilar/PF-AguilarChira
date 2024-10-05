@@ -1,22 +1,11 @@
 [
   {
-    "id": 1,
-    "title": "Cámara DSLR",
-    "description": "Cámara digital réflex de lente intercambiable.",
-    "price": 450,
-    "img": [
-      "https://example.com/img/camara.jpg"
-    ],
-    "code": "CAM001",
-    "stock": 10
-  },
-  {
     "id": 2,
     "title": "Laptop Gamer",
     "description": "Laptop con alto rendimiento para videojuegos.",
     "price": 1200,
     "img": [
-      "https://example.com/img/laptop.jpg"
+      "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSUH60mTtHDtpvNDxMyPZQnTo7KtLGcD4V2Wg&s"
     ],
     "code": "LAP002",
     "stock": 5
@@ -27,7 +16,7 @@
     "description": "Teléfono inteligente con pantalla AMOLED.",
     "price": 700,
     "img": [
-      "https://example.com/img/smartphone.jpg"
+      "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTtryWs2C8p1BRSaHL-UIOXZt-4Rk86X_mcvw&s"
     ],
     "code": "SMT003",
     "stock": 15
@@ -38,7 +27,7 @@
     "description": "Auriculares con cancelación de ruido y conectividad Bluetooth.",
     "price": 150,
     "img": [
-      "https://example.com/img/auriculares.jpg"
+      "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQNLM6CKNZCwurk1aCLEj_b36_f6IWBH9xQlA&s"
     ],
     "code": "AUR004",
     "stock": 20
@@ -49,7 +38,7 @@
     "description": "Reloj con seguimiento de actividad y notificaciones.",
     "price": 200,
     "img": [
-      "https://example.com/img/reloj.jpg"
+      "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS4WpLM0QQT0Ack_-owFrxXmAC8Nw8Me4sUcg&s"
     ],
     "code": "RELOJ005",
     "stock": 30
@@ -60,7 +49,7 @@
     "description": "Teclado mecánico para gamers con retroiluminación RGB.",
     "price": 100,
     "img": [
-      "https://example.com/img/teclado.jpg"
+      "https://rymportatiles.com.pe/cdn/shop/files/Logitech-TKL-SE.png?v=1700091854"
     ],
     "code": "TEC006",
     "stock": 25
@@ -71,7 +60,7 @@
     "description": "Ratón ergonómico con múltiples botones programables.",
     "price": 50,
     "img": [
-      "https://example.com/img/rato.jpg"
+      "https://i0.wp.com/anavatec.pe/wp-content/uploads/2021/09/11-4.png?fit=1200%2C1200&ssl=1"
     ],
     "code": "RAT007",
     "stock": 40
@@ -82,7 +71,7 @@
     "description": "Monitor de alta definición con resolución 4K.",
     "price": 300,
     "img": [
-      "https://example.com/img/monitor.jpg"
+      "https://www.impacto.com.pe/storage/products/ZDRFYNJNHU17WID1616432804tb51m-vq9dv.webp"
     ],
     "code": "MON008",
     "stock": 8
@@ -93,7 +82,7 @@
     "description": "Proyector ligero y fácil de transportar.",
     "price": 250,
     "img": [
-      "https://example.com/img/proyector.jpg"
+      "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRoNFnyc2Ux4nUvLi8pbUFZ2CrQwxP1SxKueQ&s"
     ],
     "code": "PRO009",
     "stock": 12
@@ -104,7 +93,7 @@
     "description": "Altavoces portátiles con calidad de sonido premium.",
     "price": 80,
     "img": [
-      "https://example.com/img/altavoces.jpg"
+      "https://www.miccell.com.pe/cdn/shop/files/Altavoces-rgb-fiestas-miccell-vq-sp02.webp?v=1702015640&width=640"
     ],
     "code": "ALT010",
     "stock": 18
@@ -115,9 +104,27 @@
     "description": "Smartphone de última generación con pantalla AMOLED y cámara de 200MP.",
     "price": 899.99,
     "img": [
-      "https://example.com/smartphone-ultra-pro.jpg"
+      "https://prmoto.vtexassets.com/arquivos/ids/158932-800-auto?v=637976546667470000&width=800&height=auto&aspect=true"
     ],
     "code": "SPH123",
     "stock": 30
+  },
+  {
+    "id": 12,
+    "title": "Pata de Conejo",
+    "description": "+999 de Suerte",
+    "price": 9999999999,
+    "img": "https://img.desmotivaciones.es/201104/patadeconejotraesuertemenosalosconejo.jpg",
+    "code": "ACC233",
+    "stock": 1
+  },
+  {
+    "id": 13,
+    "title": "Tu Ex",
+    "description": "Tu ex que no la superas",
+    "price": 1,
+    "img": "https://stickermaker.s3.eu-west-1.amazonaws.com/storage/uploads/sticker-pack/memezolanos-pt-1/sticker_1.png?800992d6ed02163eb977bcecf3ef9a1a&d=200x200",
+    "code": "WACALA999",
+    "stock": 1
   }
 ]

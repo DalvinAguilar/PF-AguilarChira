@@ -1,0 +1,86 @@
+/* Estilos generales */
+body {
+	font-family: Arial, sans-serif;
+	background-color: #f4f4f4;
+	margin: 0;
+	padding: 20px;
+}
+
+h1 {
+	text-align: center;
+	color: #333;
+}
+
+/* Estilos del formulario */
+#productForm {
+	background: #fff;
+	border-radius: 5px;
+	padding: 20px;
+	box-shadow: 0 2px 5px rgba(0, 0, 0, 0.1);
+	margin: 20px auto;
+	max-width: 500px;
+}
+
+#productForm input {
+	width: calc(100% - 20px);
+	padding: 10px;
+	margin: 10px 0;
+	border: 1px solid #ccc;
+	border-radius: 4px;
+}
+
+#productForm button {
+	width: 100%;
+	padding: 10px;
+	background-color: #28a745;
+	color: white;
+	border: none;
+	border-radius: 4px;
+	cursor: pointer;
+}
+
+#productForm button:hover {
+	background-color: #218838;
+}
+
+/* Estilos para las cards de productos */
+#productList {
+	display: flex;
+	flex-wrap: wrap;
+	justify-content: center;
+	margin-top: 20px;
+}
+
+.product-card {
+	background: white;
+	border-radius: 5px;
+	box-shadow: 0 2px 5px rgba(0, 0, 0, 0.1);
+	margin: 10px;
+	padding: 15px;
+	width: 200px; /* Ancho de cada card */
+	text-align: center;
+}
+
+.product-card img {
+	max-width: 100%;
+	height: auto;
+	border-radius: 5px;
+}
+
+.product-card h2 {
+	font-size: 18px;
+	color: #333;
+}
+
+.product-card p {
+	color: #666;
+}
+
+.product-card button {
+	margin-top: 10px;
+	background-color: #dc3545; /* Rojo para el botón de eliminar */
+}
+
+.product-card button:hover {
+	background-color: #c82333;
+}

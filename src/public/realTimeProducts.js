@@ -1,11 +1,11 @@
 const socket = io(); // Conectar al servidor WebSocket
 
-// Escuchar evento para recibir la lista actualizada de productos
+// Recibir la lista actualizada de productos
 socket.on('updateProducts', (products) => {
 	const productList = document.getElementById('productList');
 	productList.innerHTML = ''; // Limpiar la lista actual
 
-	// Agregar productos a la lista en formato de cards
+	// Agregar productos a la lista
 	products.forEach((product) => {
 		const card = document.createElement('div');
 		card.className = 'product-card'; // Añadir la clase para los estilos
@@ -23,7 +23,7 @@ socket.on('updateProducts', (products) => {
 	});
 });
 
-// Función para agregar un producto
+// Agregar un producto
 document.getElementById('productForm').addEventListener('submit', (event) => {
 	event.preventDefault(); // Prevenir el envío del formulario
 	const form = event.target;
